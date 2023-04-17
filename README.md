@@ -1,7 +1,7 @@
-# TypeScript
+# TypeScript-Programming
 
 <dl>
-  <dt>Typescript</dt>
+  <dt>TypeScript</dt>
   <dd>This is my first time using TypeScript.</dd>
 </dl>
 &nbsp;
