@@ -1,6 +1,6 @@
 # TypeScript-Programming
 
-This is a demo repository for practicing Git & GiHub.
+This is a demo repository for practicing TypeScript.
 
 <dl>
   <dt>TypeScript</dt>
